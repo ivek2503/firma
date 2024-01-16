@@ -1,0 +1,16 @@
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\bin\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.exe
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\bin\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.deps.json
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\bin\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.runtimeconfig.json
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\bin\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.dll
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\bin\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.pdb
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.csproj.GenerateResource.cache
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.AssemblyInfoInputs.cache
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.AssemblyInfo.cs
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.dll
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\refint\vodenje_firme_ivan_magdalenic.dll
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.pdb
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.genruntimeconfig.cache
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\ref\vodenje_firme_ivan_magdalenic.dll
+C:\Users\magda\source\repos\vodenje_firme_ivan_magdalenic\vodenje_firme_ivan_magdalenic\obj\Debug\net8.0-windows\vodenje_firme_ivan_magdalenic.Form1.resources

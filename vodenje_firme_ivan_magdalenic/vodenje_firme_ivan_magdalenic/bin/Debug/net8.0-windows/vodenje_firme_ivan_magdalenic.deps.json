@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vodenje_firme_ivan_magdalenic/1.0.0": {
+        "runtime": {
+          "vodenje_firme_ivan_magdalenic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vodenje_firme_ivan_magdalenic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
